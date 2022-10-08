@@ -29,8 +29,7 @@ function App() {
 							<>
 								<div className="top">
 									<div className="timer">
-										{/* <Timer setStop={setStop} questionNumber={questionNumber} /> */}
-										30
+ 										<Timer setStop={setStop} questionNumber={questionNumber} />
 									</div>
 								</div>
 								<div className="bottom">
